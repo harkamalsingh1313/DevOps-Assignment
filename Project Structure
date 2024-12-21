@@ -1,0 +1,25 @@
+devops-assignment/
+├── README.md
+├── Jenkinsfile
+├── pom.xml
+├── src
+│   └── main
+│       └── java
+│           └── com
+│               └── example
+│                   └── HelloWorld.java
+├── src
+│   └── test
+│       └── java
+│           └── com
+│               └── example
+│                   └── HelloWorldTest.java
+├── documentation
+│   ├── Pipeline_Documentation.md
+│   └── Pipeline_Reports.md
+└── images
+    ├── jenkins_dashboard.png
+    ├── sonar_report.png
+    ├── jacoco_coverage.png
+    ├── lizard_report.png
+    └── owasp_dependency_check.png
